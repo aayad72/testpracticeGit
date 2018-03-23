@@ -7,11 +7,15 @@ public class GitTest {
 		System.out.println("Hello everyone");
 		
 		System.out.println("second helllo");
+
 		
 		System.out.println("git practice");
 		
 		
 		
+
+		System.out.println("Hi from me");
+
 	}
 
 }
