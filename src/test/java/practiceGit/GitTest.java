@@ -27,8 +27,6 @@ public class GitTest {
 		System.out.println("No more excuse");
 		
 		System.out.println("java");
-		
-		System.out.println("NEW ADDING");
 
 
 	}
