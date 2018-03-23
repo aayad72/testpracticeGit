@@ -17,7 +17,9 @@ public class GitTest {
 		System.out.println("Hi from me");
 		
 
-		System.out.println("deleted for loop");
+		for (String string : args) {
+			
+		}
 		
 		String  str= "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrt";
 		
@@ -25,6 +27,8 @@ public class GitTest {
 		System.out.println("No more excuse");
 		
 		System.out.println("java");
+		
+		System.out.println("NEW ADDING");
 
 
 	}
