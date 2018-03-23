@@ -15,6 +15,8 @@ public class GitTest {
 		System.out.println("Bye from me");
 
 		System.out.println("Hi from me");
+		
+		System.out.println("No more excuse");
 
 	}
 
