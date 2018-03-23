@@ -12,7 +12,7 @@ public class GitTest {
 		System.out.println("git practice");
 		
 		
-		
+		System.out.println("Bye from me");
 
 		System.out.println("Hi from me");
 
