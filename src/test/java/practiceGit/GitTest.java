@@ -29,8 +29,16 @@ public class GitTest {
 		System.out.println("No more excuse");
 		
 		System.out.println("java");
+		
+		
 
 
+	}
+	
+	public void setup() {
+		
+		System.out.println("Git practice");
+		
 	}
 
 }
