@@ -16,6 +16,10 @@ public class GitTest {
 
 		System.out.println("Hi from me");
 		
+		
+		if(5>0) {
+			System.out.println("");
+		}
 
 		System.out.println("hjhfjhjfhhefh");
 		
