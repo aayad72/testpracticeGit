@@ -17,9 +17,7 @@ public class GitTest {
 		System.out.println("Hi from me");
 		
 
-		for (String string : args) {
-			
-		}
+		System.out.println("hjhfjhjfhhefh");
 		
 		String  str= "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrt";
 		
